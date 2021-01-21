@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:bwa_dart/persegi_panjang.dart';
+import 'package:bwa_dart/bwa7_persegi_panjang.dart';
 void main(List<String> arguments) {
   PersegiPanjang kotak1,kotak2;
   double luasKotak1;
